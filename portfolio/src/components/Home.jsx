@@ -5,7 +5,7 @@ import photo from '../images/linkedinphoto.jpg';
 const Home = () => {
     return (
       <div className='home-container'>  
-        <img src = {photo}/>
+        <img src = {photo} alt='profile-photo'/>
         <div className='summary'>
         <p>I am an aspiring web developer who is looking to make a career change into an exciting field. 
         For many years, I had regretted not taking computer science courses in school, 
