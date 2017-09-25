@@ -15,7 +15,9 @@ import Home from './components/Home';
 import About from './components/About';
 import Projects from './components/Projects';
 import Interests from './components/Interests';
+import Contact from './components/Contact';
 import Footer from './components/Footer';
+
 
 
 class App extends Component {
@@ -36,6 +38,8 @@ class App extends Component {
         <Route exact path = '/interests' render = {() =>
         <Interests />} 
         />
+        <Route exact path = '/contact' render = {() =>
+        <Contact />}/>
         <Footer />
       </div>
       </Router>
