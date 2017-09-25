@@ -5,7 +5,7 @@ import photo from '../images/jakepic.jpg'
 const About = () => {
     return (
         <div className='about-container'>
-            <img src={photo} alt='about-photo' />
+            <img src={photo} alt='about' />
             <h2 className='about-header'>About Jacob</h2>
             <p>I was born in Flemington, New Jersey and raised in St. Paul, Minnesota. I initially
                 went to college to study journalism at the University of Missouri before transferring after
