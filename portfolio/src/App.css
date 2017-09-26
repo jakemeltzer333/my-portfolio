@@ -1,6 +1,12 @@
+body {
+  background-color: #68c3d4;
+}
+
 .name {
   text-align: center;
   font-size: 40px;
+  font-family: "Chelsea Market", cursive;
+  color: #ffe8d1;
 }
 
 .nav-list {
@@ -9,11 +15,15 @@
   list-style: none;
   align-items: center;
   justify-content: center;
+  color: #ffffff;
+  font-family: "Chelsea Market", cursive;
   padding: 10px;
 }
 
 .nav-item {
-  padding: 15px;
+  color: #ffffff;
+  font-family: "Chelsea Market", cursive;
+  padding: 10px;
 }
 
 .home-container, .about-container, .projects-container, .interests-container, .contact-info {
@@ -21,10 +31,18 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-color: #568ea3;
+}
+
+.about-header {
+  color: #fffdd0;
+  font-family: "Chelsea Market", cursive;
 }
 
 .summary, .about-blurb {
   text-align: center;
+  color: #fffdd0;
+  font-family: 'Ubuntu Condensed', sans-serif;
 }
 
 .project-1, .project-2, .project-3, .project-4 {
@@ -32,13 +50,52 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-color: #568ea3;
 }
 
-.bttf {
-  max-width: 500px;
-  margin: 0px 25px 0px 25px;
+.project-name {
+  color: #fffdd0;
+  font-family: "Chelsea Market", cursive;
+}
+
+.project-github-link {
+  color: #fffdd0;
+}
+
+.project-image, .zipline, .profile-photo {
+  height: 80vh;
+  width: 80vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 10px;
+}
+
+.interests-container {
+  color: #ffe8d1;
+}
+
+.interests-header {
+  text-align: center;
+  font-family: 'Chelsea Market', cursive;
+}
+
+.favorites {
+  list-style: none;
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+.contact-info {
+  font-family: "Chelsea Market", cursive;
+  color: #fffdd0;
+}
+
+.contact-link {
+  color: #fffdd0;
 }
 
 .footer {
   text-align: center;
+  font-family: "Chelsea Market", cursive;
+  color: #ffe8d1;
 }
