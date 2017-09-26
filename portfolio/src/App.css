@@ -15,15 +15,12 @@ body {
   list-style: none;
   align-items: center;
   justify-content: center;
-  color: #ffffff;
-  font-family: "Chelsea Market", cursive;
-  padding: 10px;
 }
 
-.nav-item {
+.nav-list a {
   color: #ffffff;
   font-family: "Chelsea Market", cursive;
-  padding: 10px;
+  padding: 7px;
 }
 
 .home-container, .about-container, .projects-container, .interests-container, .contact-info {
@@ -35,13 +32,13 @@ body {
 }
 
 .about-header {
-  color: #fffdd0;
+  color: #ffe8d1;
   font-family: "Chelsea Market", cursive;
 }
 
 .summary, .about-blurb {
   text-align: center;
-  color: #fffdd0;
+  color: #ffe8d1;
   font-family: 'Ubuntu Condensed', sans-serif;
 }
 
@@ -54,12 +51,12 @@ body {
 }
 
 .project-name {
-  color: #fffdd0;
+  color: #ffe8d1;
   font-family: "Chelsea Market", cursive;
 }
 
 .project-github-link {
-  color: #fffdd0;
+  color: #ffe8d1;
 }
 
 .project-image, .zipline, .profile-photo {
@@ -87,11 +84,11 @@ body {
 
 .contact-info {
   font-family: "Chelsea Market", cursive;
-  color: #fffdd0;
+  color: #ffe8d1;
 }
 
 .contact-link {
-  color: #fffdd0;
+  color: #ffe8d1;
 }
 
 .footer {
