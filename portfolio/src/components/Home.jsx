@@ -5,8 +5,7 @@ import photo from '../images/linkedinphoto.jpg';
 const Home = () => {
     return (
       <div className='home-container'>  
-        <div className='profile-photo' style={{backgroundImage: `url(${photo})`}}>
-        </div>  
+        <img className='profile' src={photo}/>  
         <div className='summary'>
         <p>I am looking to transition into web development having spent the previous five years in film production and real estate. 
           In my prior experience, the most important skill I learned was how to develop solid relationships with my co-workers. 
