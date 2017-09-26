@@ -7,10 +7,12 @@ const Home = () => {
       <div className='home-container'>  
         <img src = {photo} alt='profile'/>
         <div className='summary'>
-        <p>I am an aspiring web developer who is looking to make a career change into an exciting field. 
-        For many years, I had regretted not taking computer science courses in school, 
-        knowing how pivotal that field would become to every facet of modern life. 
-        Now, I have decided to pursue this path and am excited to seek these new opportunities!</p>
+        <p>I am looking to transition into web development having spent the previous five years in film production and real estate. 
+          In my prior experience, the most important skill I learned was how to develop solid relationships with my co-workers. 
+          I have had to learn something new everywhere I have worked, and my enthusiasm to learn and collaborate with others 
+          has left me with great relationships with my previous employers. 
+          I believe the skills I have learned will carry over and allow me to be a successful web developer. 
+          And if you want fun, I can talk movies all day long!</p>
         </div>
       </div>  
     )
