@@ -10,7 +10,7 @@ const Projects = () => {
         <div className='projects container'>
             <div className='project-1'>
                 <h3>Back to the Future Trivia</h3>
-                <a href='http://back-to-the-future-trivia.bitballoon.com/'><img src={bttf} alt='BTTF-Trivia'/></a><br/>
+                <a href='http://back-to-the-future-trivia.bitballoon.com/'><img className='bttf' src={bttf} alt='BTTF-Trivia'/></a><br/>
                 <a href='https://github.com/jakemeltzer333/Back-To-The-Future-Trivia'><i className="fa fa-github-square fa-2x" aria-hidden="true"></i></a>
             </div>
             <div className='project-2'>
