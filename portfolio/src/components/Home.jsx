@@ -1,10 +1,6 @@
 import React from 'react';
 
 import photo from '../images/linkedinphoto.jpg';
-import frontEndLogos from '../images/html-css-js-logo.png';
-import logo from '../logo.svg';
-import node from '../images/node.png';
-import rails from '../images/ruby_on_rails.png';
 
 
 const Home = () => {
