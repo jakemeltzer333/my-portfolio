@@ -120,6 +120,11 @@ body {
   font-family: "Chelsea Market", cursive;
 }
 
+.project-blurb {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #ffe8d1;
+}
+
 .project-github-link {
   color: #ffe8d1;
 }
