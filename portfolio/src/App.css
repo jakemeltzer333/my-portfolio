@@ -31,6 +31,71 @@ body {
   background-color: #568ea3;
 }
 
+.skills-header {
+  text-align: center;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #ffe8d1;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.skill-type {
+  color: #ffe8d1;
+  font-size: 20px;
+}
+
+.skill-names {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.front-end, .back-end {
+  display: flex;
+  flex-direction: row;
+}
+
+.front-end-list, .back-end-list {
+  list-style: none;
+}
+
+.html {
+  color: #ff5733;
+  padding: 5px;
+}
+
+.css {
+  color: #0099e5;
+  padding: 5px;
+}
+
+.js {
+  color: #f7df1e;
+  padding: 5px;
+}
+
+.react {
+  color: #00d8ff;
+  padding: 5px;
+}
+
+.node {
+  color: #6cc24a;
+  padding: 5px;
+}
+
+.express {
+  padding: 5px;
+}
+
+.sql {
+  color: #0064a5;
+  padding: 5px;
+}
+
+.rails {
+  color: #cc0000;
+  padding: 5px;
+}
+
 .about-header {
   color: #ffe8d1;
   font-family: "Chelsea Market", cursive;
