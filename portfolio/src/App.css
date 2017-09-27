@@ -118,6 +118,7 @@ body {
 .project-name {
   color: #ffe8d1;
   font-family: "Chelsea Market", cursive;
+  font-size: 30px;
 }
 
 .project-blurb {
