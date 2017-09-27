@@ -14,7 +14,11 @@ const About = () => {
                 City five years ago to pursue opportunities in the film industry and had a few jobs and internships
                 before transitioning into the cutthroat world of New York City real estate. I worked for a small luxury firm
                 in downtown Manhattan first as an agent in the field and then in an administrative role for two years before enrolling in 
-                the Web Development Immersive program at General Assembly. 
+                the Web Development Immersive program at General Assembly.
+                <br/><br/>
+                As demonstrated on my Interests page, I am passionate about many things and happy to
+                talk your ear off about any of them! So far, I have incorporated those passions into my projects and would love 
+                to keep doing that going forward! 
             </p>
         </div>    
     )
