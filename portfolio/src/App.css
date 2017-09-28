@@ -61,40 +61,48 @@ body {
 .html {
   color: #ff5733;
   padding: 5px;
+  text-shadow: 1px 1px 1px #ffe8d1;
 }
 
 .css {
   color: #0099e5;
   padding: 5px;
+  text-shadow: 1px 1px 1px #ffe8d1;
 }
 
 .js {
   color: #f7df1e;
   padding: 5px;
+  text-shadow: 1px 1px 1px #ffe8d1;
 }
 
 .react {
   color: #00d8ff;
   padding: 5px;
+  text-shadow: 1px 1px 1px #ffe8d1;
 }
 
 .node {
   color: #6cc24a;
   padding: 5px;
+  text-shadow: 1px 1px 1px #ffe8d1;
 }
 
 .express {
   padding: 5px;
+  text-shadow: 1px 1px 1px #ffe8d1;
 }
 
 .sql {
   color: #0064a5;
   padding: 5px;
+  text-shadow: 1px 1px 1px #ffe8d1;
 }
 
 .rails {
   color: #cc0000;
   padding: 5px;
+  text-shadow: 1px 1px 1px #ffe8d1;
 }
 
 .about-header {
